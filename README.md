@@ -62,6 +62,10 @@ After importing hexagon service is ready to be used as a regular React component
 | side6Children  | HTML, string   | HTML element or string which will be placed on the side 6* of the hexagon                                    | any         |
 | bottomChildren | HTML, string   | HTML element or string which will be placed on the bottom side of the hexagon                                | any         |
   
+  *Hexagon sides direction:
+  
+  ![alt Samples](./assets/img/HexagonFaces.jpg)
+  
   ### Next iterations
   
   * Add tooltips for each side
