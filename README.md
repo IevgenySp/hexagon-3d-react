@@ -1,7 +1,11 @@
-[![Build Status](https://app.travis-ci.com/IevgenySp/hexagon-3d.svg?branch=main)](https://app.travis-ci.com/IevgenySp/hexagon-3d)
+[![Build Status](https://app.travis-ci.com/IevgenySp/hexagon-3d-react.svg?branch=main)](https://app.travis-ci.com/IevgenySp/hexagon-3d-react)
 
 # hexagon-3d-react
 A React based component wrapper for the [<b>hexagon-3d</b>](https://www.npmjs.com/package/hexagon-3d) service. Hexagon-3d providing styles object for CSS-based 3d hexagons with high interactivity capabilities. You may use these shapes as skeletons for various animations, images adding, videos playing, combining them into different forms, and doing a lot of other things. The capabilities of hexagons will be growing over time.
+
+### Live demo:
+
+[<b>Hexagon3D</b>](https://hexagon.metriker.com/)
 
 ![alt Samples](./assets/img/HexagonSamples.png)
 
