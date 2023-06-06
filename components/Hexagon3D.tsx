@@ -1,7 +1,7 @@
 import React, { CSSProperties } from 'react';
 import hexagon3D, { IHexagonProps, IHexagonChildrensProps } from 'hexagon-3d';
 
-const Hexagon3D: React.FC = (props: IHexagonProps & IHexagonChildrensProps) => {
+const Hexagon3D = (props: IHexagonProps & IHexagonChildrensProps): JSX.Element => {
   const {
       width,
       height,
