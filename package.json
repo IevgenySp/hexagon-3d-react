@@ -1,6 +1,6 @@
 {
   "name": "hexagon-3d-react",
-  "version": "0.1.5",
+  "version": "0.1.6",
   "description": "React component wrapper round hexagon-3d service for building css hexagons with high interactivity capabilities.",
   "main": "dist/Hexagon3D.js",
   "types": "dist/Hexagon3D.d.ts",
