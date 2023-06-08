@@ -7,6 +7,10 @@ A React based component wrapper for the [<b>hexagon-3d</b>](https://www.npmjs.co
 
 [<b>Hexagon3D</b>](https://hexagon.metriker.com/)
 
+### Explanation tutorial
+
+You can read more about hexagon geometry, construction features, and package details in my [<b>Medium article</b>](https://medium.com/better-programming/entertaining-web-geometry-building-an-interactive-3d-css-hexagon-a9b5f535d06e).
+
 ![alt Samples](./assets/img/HexagonSamples.png)
 
 ## Installation
